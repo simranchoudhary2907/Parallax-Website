@@ -105,4 +105,4 @@ Created by Simran Choudhary
 
 ---
 
-**Note**: This is a static website that doesn't require any build process or dependencies. Simply open the HTML file in a browser to view the parallax effect. 
+**Note**: This is a static website that doesn't require any build process or dependencies. Simply open the HTML file in a browser to view the parallax effect.
